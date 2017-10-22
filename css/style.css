@@ -28,3 +28,6 @@
 .navbar, .navbar-default{
     border-radius: 0;
 }
+#edit-comment-body-0-format{
+  display: none;
+}
